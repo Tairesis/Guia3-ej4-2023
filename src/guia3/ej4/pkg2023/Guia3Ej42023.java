@@ -15,6 +15,7 @@ public class Guia3Ej42023 {
         Hombre hombre = new Hombre();
         Hombre hombre2= new Hombre();
         
+        //comentario para chequear el push de github desktop
         Robot robot=new Robot();
         System.out.println("Bateria Robot: "+robot.informeDeBateria());
         
